@@ -18,7 +18,6 @@ This is a simple Task Manager application built using Node.js and Express. The a
 
 ## Project Structure
 
-    ```plaintext
     ├── files/               # Directory where task files are stored
     │   ├── Haresh.txt
     │   ├── Mayur.txt
@@ -31,7 +30,6 @@ This is a simple Task Manager application built using Node.js and Express. The a
     ├── index.js             # Main server file
     ├── package.json         # Project metadata and dependencies
     └── README.md            # Project documentation
-    ```
 
 ## Prerequisites
 
